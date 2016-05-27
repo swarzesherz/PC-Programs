@@ -64,7 +64,7 @@ Datos Básicos
 
 Estando el archivo del documento formateado de acuerdo con las indicaciones del manual `Preparación de Archivos para el Programa Markup <es_how_to_generate_xml-prepara.html>`_ , abra el documento en el programa `Markup <markup.html>`_ y seleccione el elemento [doc]:
 
-.. image:: img/doc-mkp-formulario.jpg
+.. image:: img/es_doc-mkp-formulario.png
    :height: 400px
    :align: center
 
@@ -143,21 +143,20 @@ Front
 
 Una vez que se completó el llenado del formulario, al hacer clic en [Ok] se abrirá una ventana preguntando si el documento tiene el formato adecuado para efectuar la marcación automática:
 
-.. image:: img/doc-mkp-mkp-automatic.jpg
+.. image:: img/es_doc-mkp-mkp-automatic.png
    :height: 450px
    :align: center
 
 
 Al hacer clic en [Sí], el programa realizará la marcación automática de los elementos básicos del documento.
 
-.. image:: img/doc-mkp-mkp--auto.jpg
+.. image:: img/es_doc-mkp-mkp--auto.png
    :height: 400px
    :width: 300px
    :align: center
 
 
-.. note:: Cuando el archivo no tenga el formato recomendado en "Preparación de Archivos para el Programa Markup", el programa 
-          no identificará correctamente los elementos.
+.. note:: Cuando el archivo no tenga el formato recomendado en "Preparación de Archivos para el Programa Markup", el programa no identificará correctamente los elementos.
 
 
 
@@ -201,7 +200,7 @@ El programa Markup no hace marcación automática de la función del autor, ente
    :align: center
 
 
-.. image:: img/doc-mkp-mkp-role-author.jpg
+.. image:: img/es_doc-mkp-mkp-role-author.png
    :height: 230px
    :align: center
 
@@ -255,14 +254,14 @@ Para identificar ese dato, verifique que la información del representante del g
 
 El programa identificará el autor "Fernando Augusto Proietti" de la siguiente manera:
 
-.. image:: img/mkp-on-behalf.jpg
+.. image:: img/es_mkp-on-behalf.png
    :height: 150px
    :align: center
 
 
 Seleccione el nombre del grupo o institución e identifique con el elemento: [onbehalf]:
 
-.. image:: img/mkp-tag-onbehalf.jpg
+.. image:: img/es_mkp-tag-onbehalf.png
    :height: 150px
    :align: center
 
@@ -272,7 +271,7 @@ Contrib-ID
 
 Los autores que presentan su registro en ORCID o en Lattes deben insertar el link de registro al lado de su nombre, justo después de la etiqueta del autor:
 
-.. image:: img/mkp-contrib-id.jpg
+.. image:: img/es_mkp-contrib-id.png
    :height: 230px
    :align: center
 
@@ -299,7 +298,7 @@ Complete la marcación de las afiliaciones identificando: institución mayor [or
 Para hacer la identificación de los elementos arriba mencionados, vaya al nivel inferior del elemento [normaff] y haga la marcación detallada de cada afiliación.
 
 
-.. image:: img/doc-mkp-detalhamento-aff.jpg
+.. image:: img/es_doc-mkp-detalhamento-aff.png
    :height: 350px
    :align: center
 
@@ -307,7 +306,7 @@ Para hacer la identificación de los elementos arriba mencionados, vaya al nivel
 En la secuencia, será necesario verificar si la institución marcada y su país poseen forma normalizada por SciELO. Para eso, seleccione el elemento [normaff] y haga clic en el ícono del "lápiz" para editar los atributos. El programa abrirá una ventana para consultar la normalización de los elementos que se indiquen en los campos en blanco.
 
 
-.. image:: img/doc-mkp-normalizacao-aff.jpg
+.. image:: img/es_doc-mkp-normalizacao-aff.png
    :height: 350px
    :align: center
 
@@ -316,7 +315,7 @@ En la secuencia, será necesario verificar si la institución marcada y su país
 En el campo "icountry" seleccione el país de la institución mayor (orgname), en seguida haga clic en "find" para buscar la institución normalizada. Al hacer ese procedimiento, el programa Markup consultará nuestra base de datos de instituciones normalizadas y verificará si la institución seleccionada se encuentra en la lista.
 
 
-.. image:: img/doc-mkp-normalizadas.jpg
+.. image:: img/es_doc-mkp-normalizadas.png
    :height: 350px
    :align: center
 
@@ -343,7 +342,7 @@ Resumen sin Sección:
 
 **seleccionando:** 
 
-.. image:: img/doc-mkp-select-abstract-s.jpg
+.. image:: img/es_doc-mkp-select-abstract-s.png
    :height: 350px
    :align: center
 
@@ -353,7 +352,7 @@ Cuando haga clic en [xmlabstr] el programa abrirá una ventana donde debe selecc
 
 **marcación:** 
 
-.. image:: img/doc-mkp-idioma-resumo.jpg
+.. image:: img/es_doc-mkp-idioma-resumo.png
    :height: 350px
    :width: 450px
    :align: center
@@ -361,7 +360,7 @@ Cuando haga clic en [xmlabstr] el programa abrirá una ventana donde debe selecc
 
 **Resultado**
 
-.. image:: img/doc-mkp-mkp-abstract.jpg
+.. image:: img/es_doc-mkp-mkp-abstract.png
    :align: center
 
 
@@ -376,20 +375,20 @@ Siga los mismos pasos descritos para resumen sin sección:
 
 **seleccionando:** 
 
-.. image:: img/doc-mkp-select-abstract.jpg
+.. image:: img/es_doc-mkp-select-abstract.png
    :align: center
 
 
 **marcación:**
 		  
-.. image:: img/doc-mkp-idioma-abstract.jpg
+.. image:: img/es_doc-mkp-idioma-abstract.png
    :height: 400px
    :align: center
 
 
 **Resultado**
 
-.. image:: img/doc-mkp-mkp-resumo.jpg
+.. image:: img/es_doc-mkp-mkp-resumo.png
    :align: center
 
 
@@ -412,7 +411,7 @@ Marcación Automática:
 
 **Seleccionando:**
  
-.. image:: img/doc-mkp-select-kwd.jpg
+.. image:: img/es_doc-mkp-select-kwd.png
    :height: 300px
    :align: center
 
@@ -422,7 +421,7 @@ En la ventana que abre el programa, seleccione el idioma de las palabras-clave m
 
 **Marcación:** 
 
-.. image:: img/doc-mkp-mkp-kwd.jpg
+.. image:: img/es_doc-mkp-mkp-kwd.png
    :height: 300px
    :align: center
 
@@ -442,7 +441,7 @@ Si el resultado de la marcación automática no es el esperado, puede marcar el 
 
 **Marcación:**
 
-.. image:: img/doc-mkp-selection-kwd-s.jpg
+.. image:: img/es_doc-mkp-selection-kwd-s.png
    :height: 350px
    :align: center
 
@@ -450,14 +449,14 @@ Si el resultado de la marcación automática no es el esperado, puede marcar el 
 
 En seguida, haga la marcación de ítem por ítem. A continuación, seleccione el título de las palabras-clave e identifíquelo con el elemento [sectitle]:
 
-.. image:: img/doc-mkp-sec-kwd.jpg
+.. image:: img/es_doc-mkp-sec-kwd.png
    :height: 300px
    :align: center
 
 
 En la secuencia, seleccione palabra por palabra y márquela con el elemento [kwd]:
 
-.. image:: img/doc-mkp-kwd-kwd.jpg
+.. image:: img/es_doc-mkp-kwd-kwd.png
    :height: 300px
    :align: center
 
@@ -476,7 +475,7 @@ History
 El elemento [hist] es utilizado para marcar el histórico del documento. Seleccione todos los datos históricos que presente el documento y marque con el elemento [hist]:
 
 
-.. image:: img/doc-mkp-hist-select.jpg
+.. image:: img/es_doc-mkp-hist-select.png
    :height: 250px
    :align: center
 
@@ -484,14 +483,14 @@ El elemento [hist] es utilizado para marcar el histórico del documento. Selecci
 
 Seleccione la fecha de recibido y marque con el elemento [received]. Compruebe que la fecha ISO indicada en el campo dateiso es correcta, corrija si es necesario. La estructura de la fecha ISO esperada es: AÑO MES DÍA. 
 
-.. image:: img/doc-mkp-received.jpg
+.. image:: img/es_doc-mkp-received.png
    :height: 350px
    :align: center
 
 
 Cuando exista la fecha de revisado, selecciónela y marque con el elemento [revised]. Haga lo mismo para la fecha de aceptado, seleccionando el elemento [accepted]. Verifique la fecha ISO indicada en el campo dateiso, corrija si es necesario.
 
-.. image:: img/doc-mkp-accepted.jpg
+.. image:: img/es_doc-mkp-accepted.png
    :height: 350px
    :align: center
 
@@ -509,14 +508,14 @@ Correspondencia
 
 Los datos de correspondencia del autor se marcan con el elemento [corresp]. Este elemento posee un subnivel para identificar el e-mail del autor. Seleccione toda la información de correspondencia y marque con el elemento [corresp]. Se presentará una ventana para marcar el ID de correspondencia, en este caso debe ser "c" + el número de orden de la correspondencia.
 
-.. image:: img/doc-mkp-corresp-select.jpg
+.. image:: img/es_doc-mkp-corresp-select.png
    :height: 300px
    :align: center
 
 
 Seleccione el e-mail que corresponda al autor y marque con el elemento [email]. Suba un nivel para continuar la marcación del siguiente elemento.
 
-.. image:: img/doc-mkp-email-corresp.jpg
+.. image:: img/es_doc-mkp-email-corresp.png
    :height: 300px
    :align: center
 
@@ -531,14 +530,14 @@ Ensayo Clínico
 
 Archivos que presentan información de ensayo clínico con número de registro, deben ser marcados con el elemento [cltrial]:
 
-.. image:: img/doc-mkp-tag-cltrial.jpg
+.. image:: img/es_doc-mkp-tag-cltrial.png
    :height: 150px
    :align: center
 
 
 En la ventana que abre el programa, llene el campo "cturl" con la URL de la base de datos donde el Ensayo fue indexado y el campo "ctdbid" seleccionando la base correspondiente:
 
-.. image:: img/doc-mkp-clinicaltr.jpg
+.. image:: img/es_doc-mkp-clinicaltr.png
    :height: 300px
    :align: center
 
@@ -960,14 +959,14 @@ Las notas al pie pueden aparecer antes del cuerpo del texto o después. No hay u
 
 Seleccione la nota y marque con el elemento [fngrp].
 
-.. image:: img/doc-mkp-select-fn-contri.jpg
+.. image:: img/es_doc-mkp-select-fn-contri.png
    :height: 350px
    :align: center
 
 
 Cuando la nota presente un título o un símbolo, seleccione la información y marque con el elemento [label]:
 
-.. image:: img/doc-mkp-fn-label-con.jpg
+.. image:: img/es_doc-mkp-fn-label-con.png
    :height: 200px
    :align: center
 
@@ -981,7 +980,7 @@ Soporte sin información de financiamiento
 Para notas al pie que presentan soporte de entidades, institución o persona física sin datos de financiamiento ni número de contrato, seleccione la nota del tipo "Investigación en la cual el artículo fue basado fue apoyado por alguna entidad":
 
 
-.. image:: img/doc-mkp-fn-supp.jpg
+.. image:: img/es_doc-mkp-fn-supp.png
    :height: 250px
    :align: center
 
@@ -996,35 +995,35 @@ Soporte con datos de financiamiento
 
 Para notas al pie que presentan datos de financiamiento con número de contrato, seleccione nota del tipo "Declaración o negación de recibimiento de financiamiento en apoyo a la investigación en la que el artículo es basado". En ese caso, será preciso marcar los datos de financiamiento con el elemento [funding]:
 
-.. image:: img/doc-mkp-select-fn-fdiscl.jpg
+.. image:: img/es_doc-mkp-select-fn-fdiscl.png
    :height: 300px
    :align: center
 
 
 El siguiente paso es seleccionar el primer grupo de institución financiadora + el número de contrato y marcar con el elemento [award].
 
-.. image:: img/doc-mkp-award-select.jpg
+.. image:: img/es_doc-mkp-award-select.png
    :height: 200px
    :align: center
 
 
 A continuación, seleccione la institución financiadora y marque con el elemento [fundsrc]:
 
-.. image:: img/doc-mkp-fund-source-fn.jpg
+.. image:: img/es_doc-mkp-fund-source-fn.png
    :height: 200px
    :align: center
 
 
 Seleccione cada número de contrato y marque con el elemento [contract]:
 
-.. image:: img/doc-mkp-contract-fn.jpg
+.. image:: img/es_doc-mkp-contract-fn.png
    :height: 300px
    :align: center
 
 
 Si la nota al pie presenta más de una institución financiadora y número de contrato, haga la marcación conforme al siguiente ejemplo:
 
-.. image:: img/doc-mkp-mkp-fn-fund-2.jpg
+.. image:: img/es_doc-mkp-mkp-fn-fund-2.png
    :height: 300px
    :align: center
    
@@ -1044,19 +1043,19 @@ Para notas al pie que están posicionadas al final de cada página en el documen
 Las llamadas de nota al pie en el cuerpo del texto deberán tener un formateo simple: formato numérico y superíndice.
 Las notas deberán estar en formato de nota al pie de Word con un espacio antes de la nota.
 
-.. image:: img/mkp-espaco-fn.jpg
+.. image:: img/es_mkp-espaco-fn.png
    :height: 300px
    :align: center
 
 Ya con el formato correcto, haga clic con el mouse en cualquier párrafo, y en seguida haga clic en [* fn].
 
-.. image:: img/mkp-botao-fn.jpg
+.. image:: img/es_mkp-botao-fn.png
    :height: 300px
    :align: center
 
 Al hacer clic en [*fn] el programa realizará la marcación automática de [xref] en el cuerpo del texto y también de la nota al pie de la página.
 
-.. image:: img/mkp-nota-automatico.jpg
+.. image:: img/es_mkp-nota-automatico.png
    :height: 300px
    :align: center
 
@@ -1069,21 +1068,21 @@ Apéndices
 
 La marcación de apéndices, anexos y material suplementario debe ser hecha con el elemento [appgrp]:
 
-.. image:: img/doc-mkp-element-app.jpg
+.. image:: img/es_doc-mkp-element-app.png
    :height: 100px
    :align: center
 
 Seleccione todo el grupo de apéndice, incluso el título, si lo tiene, y haga clic en [appgrp]:
 
 
-.. image:: img/doc-mkp-app.jpg
+.. image:: img/es_doc-mkp-app.png
    :height: 300px
    :align: center
 
 
 Seleccione apéndice por apéndice y marque con el elemento [app]
 
-.. image:: img/doc-mkp-id-app.jpg
+.. image:: img/es_doc-mkp-id-app.png
    :height: 300px
    :align: center
 
@@ -1093,18 +1092,18 @@ Cuando el apéndice sea una figura, tabla, cuadro etc, seleccione el título de 
 
 **Íconos flotantes**
 
-.. image:: img/doc-mkp-tags-flutuantes.jpg
+.. image:: img/es_doc-mkp-tags-flutuantes.png
    :height: 100px
    :align: center
 
 Ejemplo, seleccione la figura con su respectivo label y caption y marque con el elemento [figgrp]
 
-.. image:: img/doc-mkp-app-fig1.jpg
+.. image:: img/es_doc-mkp-app-fig1.png
    :height: 300px
    :align: center
 
 
-.. image:: img/doc-mkp-app-fig2.jpg
+.. image:: img/es_doc-mkp-app-fig2.png
    :height: 350px
    :width: 350px
    :align: center
@@ -1119,14 +1118,14 @@ Ejemplo, seleccione la figura con su respectivo label y caption y marque con el 
 
 Para apéndices que presentan párrafos, seleccione el título del apéndice y marque con el elemento [sectitle]
 
-.. image:: img/doc-mkp-sectitle-app-paragrafo1.jpg
+.. image:: img/es_doc-mkp-sectitle-app-paragrafo1.png
    :height: 300px
    :align: center
 
 
 A continuación, seleccione el párrafo y marque con el elemento [p]
 
-.. image:: img/doc-mkp-sectitle-app-paragrafo2.jpg
+.. image:: img/es_doc-mkp-sectitle-app-paragrafo2.png
    :height: 300px
    :align: center
 
@@ -1146,13 +1145,13 @@ La sección de agradecimientos, generalmente se encuentra entre el final del cue
 
 **Seleccionando [ack]**
 
-.. image:: img/doc-mkp-ack-nofunding.jpg
+.. image:: img/es_doc-mkp-ack-nofunding.png
    :height: 200px
    :align: center
 
 **Resultado esperado**
 
-.. image:: img/doc-mkp-ack-fim.jpg
+.. image:: img/es_doc-mkp-ack-fim.png
    :height: 150px
    :align: center
 
@@ -1165,19 +1164,19 @@ La sección de agradecimientos, generalmente se encuentra entre el final del cue
 
 Comúnmente los agradecimientos presentan datos de financiamiento, con número de contrato e institución financiadora. Cuando estén presentes estos datos, márquelos con el elemento [funding].
 
-.. image:: img/doc-mkp-nivel-inf-ack.jpg
+.. image:: img/es_doc-mkp-nivel-inf-ack.png
    :height: 200px
    :align: center
 
 Seleccione el primer conjunto de institución y número de contrato y marque con el elemento [award]:
 
-.. image:: img/doc-mkp-select-1-award-ack.jpg
+.. image:: img/es_doc-mkp-select-1-award-ack.png
    :height: 200px
    :align: center
 
 Seleccione la institución financiadora y marque con el elemento [fundsrc]:
 
-.. image:: img/doc-mkp-fundsrc1.jpg
+.. image:: img/es_doc-mkp-fundsrc1.png
    :height: 200px
    :align: center
 
@@ -1186,7 +1185,7 @@ Seleccione la institución financiadora y marque con el elemento [fundsrc]:
 
 Marque el número de contracto con el elemento [contract]:
 
-.. image:: img/doc-mkp-ack-contract1.jpg
+.. image:: img/es_doc-mkp-ack-contract1.png
    :height: 200px
    :align: center
 
@@ -1215,13 +1214,13 @@ Los glosarios son incluidos en los documentos después de las referencias biblio
 
 Seleccione todos los datos de glosario y marque con el elemento :ref:`lista-definición`:
 
-.. image:: img/doc-mkp-select-gdef.jpg
+.. image:: img/es_doc-mkp-select-gdef.png
    :height: 200px
    :align: center
 
 El resultado de la marcación será:
 
-.. image:: img/doc-mkp-glossary.jpg
+.. image:: img/es_doc-mkp-glossary.png
    :height: 200px
    :align: center
 
@@ -1237,12 +1236,12 @@ Con el cuerpo del texto formateado de acuerdo con las instrucciones de `Preparac
 
 Seleccione todo el cuerpo del texto y de clic en el botón [xmlbody], verificar las secciones, subsecciones, citas, etc. presentadas en la ventana que abre el programa, y si es necesario corrija y de clic en "Aplicar".
 
-.. image:: img/doc-mkp-select-xmlbody.jpg
+.. image:: img/es_doc-mkp-select-xmlbody.png
    :height: 300px
    :align: center
 
 
-.. image:: img/doc-mkp-xmlbody-select.jpg
+.. image:: img/es_doc-mkp-xmlbody-select.png
    :height: 350px
    :width: 350px
    :align: center
@@ -1253,26 +1252,26 @@ Seleccione todo el cuerpo del texto y de clic en el botón [xmlbody], verificar 
 Al dar clic en "Aplicar" el programa preguntará si las referencias en el cuerpo del texto se ajustan al patrón de citación autor-fecha. Si el documento presenta este patrón, de clic en [Sí], en caso contrario de clic en [No].
 
 
-.. image:: img/doc-mkp-refs-padrao.jpg
+.. image:: img/es_doc-mkp-refs-padrao.png
    :height: 300px
    :align: center
 
 **Patrón autor-fecha**
 
-.. image:: img/doc-mkp-ref-author.jpg
+.. image:: img/es_doc-mkp-ref-author.png
    :height: 200px
    :align: center
 
 **Patrón numérico**
 
-.. image:: img/doc-mkp-ref-num.jpg
+.. image:: img/es_doc-mkp-ref-num.png
    :height: 250px
    :align: center
 
 
 Es a partir del documento formateado de acuerdo con las instrucciones de `Preaparación de archivos <es_how_to_generate_xml-prepara.html#formatacao-do-archivo>`_ que el programa marca automáticamente secciones, subsecciones, párrafos, referencias de autores en el cuerpo del texto, llamadas a figuras y tablas, ecuaciones en línea etc.
 
-.. image:: img/doc-mkp-complete.jpg
+.. image:: img/es_doc-mkp-complete.png
    :height: 300px
    :width: 200px
    :align: center
@@ -1292,19 +1291,19 @@ Secciones y subsecciones
 
 Después de la marcación automática de [xmlbody], cerciórese que los tipos de secciones fueron asignados correctamente.
 
-.. image:: img/doc-mkp-section-combinada.jpg
+.. image:: img/es_doc-mkp-section-combinada.png
    :align: center
 
 En algunos casos, la marcación automática no identifica la sección correctamente. En esos casos, seleccione la sección, de clic en el lápiz "Editar Atributos" e indique el tipo correcto de sección.
 
-.. image:: img/doc-mkp-sec-compost.jpg
+.. image:: img/es_doc-mkp-sec-compost.png
    :height: 250px
    :align: center
 
 
 **Resultado**
 
-.. image:: img/doc-mkp-section-combinada.jpg
+.. image:: img/es_doc-mkp-section-combinada.png
    :height: 200px
    :align: center
 
@@ -1330,27 +1329,27 @@ En algunos casos que el programa Markup no realizará la marcación automática 
 
 *Apellido del autor + "in press" o derivados:*
 
-.. image:: img/doc-mkp-xref-noprelo.jpg
+.. image:: img/es_doc-mkp-xref-noprelo.png
    :height: 200px
    :align: center
 
 
 *Autor corporativo:*
 
-.. image:: img/doc-mkp-ref-cauthor.jpg
+.. image:: img/es_doc-mkp-ref-cauthor.png
   :height: 150px
   :align: center
 
 Para identificar el [xref] de las citas que no fueron marcadas automáticamente, primero identifique el ID de la *referencia bibliográfica* no identificada, enseguida seleccione la cita deseada y márquela con el elemento [xref].
 
-.. image:: img/doc-mkp-xref-manual.jpg
+.. image:: img/es_doc-mkp-xref-manual.png
    :height: 300px
    :align: center
 
 
 Llene sólo los campos "ref-type" y "rid". En "ref-type", seleccione el tipo de referencia cruzada que corresponda, en este caso "Referencia bibliográfica", enseguida indique el ID correspondiente a la referencia bibliográfica citada. Verifique y de clic en [Continuar].
 
-.. image:: img/doc-mkp-xref-manual-refs.jpg
+.. image:: img/es_doc-mkp-xref-manual-refs.png
    :height: 180px
    :align: center
 
@@ -1373,7 +1372,7 @@ Seleccione [ref-type] de tipo "Figura" e indique la secuencia del ID en el docum
 
    *Resultado*
 
-.. image:: img/doc-mkp-xref-chart.jpg
+.. image:: img/es_doc-mkp-xref-chart.png
    :align: center
 
 
@@ -1388,7 +1387,7 @@ Seleccione [ref-type] de tipo "Fórmula" e indique la secuencia del ID en el doc
 
    *Resultado*
 
-.. image:: img/doc-mkp-xref-equation.jpg
+.. image:: img/es_doc-mkp-xref-equation.png
    :height: 80px
    :align: center
 
@@ -1404,7 +1403,7 @@ Seleccione [ref-type] de tipo "Caja de texto o barra lateral" e indique la secue
 
    *Resultado*
 
-.. image:: img/doc-mkp-xref-boxed.jpg
+.. image:: img/es_doc-mkp-xref-boxed.png
    :align: center
 
 
@@ -1422,14 +1421,14 @@ Párrafos
 Los párrafos son marcados automáticamente en el cuerpo del texto al hacer la identificación de [xmlbody]. En caso que el programa no haya marcado un párrafo o que la marcación automática haya identificado un párrafo con el elemento incorrecto, es posible realizar la marcación manual de ese dato. Para ello, seleccione el párrafo deseado, verifique si el párrafo pertenece a alguna sección o subsección y ubique el elemento [p] dentro los niveles de [sec] o [subsec].
 
 
-.. image:: img/doc-mkp-subsec-p.jpg
+.. image:: img/es_doc-mkp-subsec-p.png
    :height: 250px
    :align: center
 
 
 *Resultado*
 
-.. image:: img/doc-mkp-element-p.jpg
+.. image:: img/es_doc-mkp-element-p.png
    :height: 100px
    :align: center
 
@@ -1450,20 +1449,20 @@ Al hacer la marcación de [xmlbody] el programa identifica automáticamente las 
 
 Para marcar el grupo de datos de la figura, seleccione la imagen, su leyenda (label y caption) y la fuente si existe, marque la selección con el elemento [figgrp].
 
-.. image:: img/doc-mkp-select-fig.jpg
+.. image:: img/es_doc-mkp-select-fig.png
    :height: 400px
    :align: center
 
 * Llene el "id" de la figura en la ventana que abre el programa.
 
-.. image:: img/doc-mkp-id-fig.jpg
+.. image:: img/es_doc-mkp-id-fig.png
    :height: 200px
    :align: center
 
 Cerciórese que el ID de la figura es único en el documento.
 
 
-.. image:: img/doc-mkp-fig-incomp.jpg
+.. image:: img/es_doc-mkp-fig-incomp.png
    :height: 400px
    :align: center
 
@@ -1472,7 +1471,7 @@ Cerciórese que el ID de la figura es único en el documento.
 
 * Después de la marcación de [figgrp], en caso que la imagen presente información de fuente, seleccione el dato y márquelo con el elemento [attrib]:
 
-.. image:: img/doc-mkp-attrib-fig.jpg
+.. image:: img/es_doc-mkp-attrib-fig.png
    :height: 400px
    :align: center
 
@@ -1503,19 +1502,19 @@ Al realizar la marcación de [xmlbody] el programa identifica automáticamente e
 
 Del mismo modo que en las figuras, el ID del elemento deberá ser el indicado para tablas (t1, t2, t3 ...). Cerciórese que el ID de tabla es único en el documento.
 
-.. image:: img/doc-mkp-select-tableimg.jpg
+.. image:: img/es_doc-mkp-select-tableimg.png
    :height: 450px
    :width: 300px
    :align: center
 
 * Llene el "ID" de la tabla en la ventana que abre el programa.
 
-.. image:: img/doc-mkp-id-figimg.jpg
+.. image:: img/es_doc-mkp-id-figimg.png
    :align: center
 
 Cerciórese que el ID de la tabla es único en el documento.
 
-.. image:: img/doc-mkp-tabimg.jpg
+.. image:: img/es_doc-mkp-tabimg.png
    :height: 450px
    :width: 300px
    :align: center
@@ -1528,7 +1527,7 @@ Tablas en Texto
 
 El programa también codifica tablas en texto. Para ello, seleccione toda la información de tabla (label, caption, cuerpo de la tabla y notas al pie si existen) y márquela con el elemento [tabwrap].
 
-.. image:: img/doc-mkp-select-tab-text.jpg
+.. image:: img/es_doc-mkp-select-tab-text.png
    :height: 350px
    :align: center
 
@@ -1537,14 +1536,14 @@ El programa también codifica tablas en texto. Para ello, seleccione toda la inf
 
 * Llene el "ID" de la tabla en la ventana que abre el programa.
 
-.. image:: img/doc-mkp-id-tabtext.jpg
+.. image:: img/es_doc-mkp-id-tabtext.png
    :height: 200px
    :align: center
 
 Cerciórese que el ID de la tabla es único en el documento.
 
 
-.. image:: img/doc-mkp-tabcomplete.jpg
+.. image:: img/es_doc-mkp-tabcomplete.png
    :height: 400px
    :width: 280px
    :align: center
@@ -1590,19 +1589,19 @@ El resultado será:
 
 Las ecuaciones presentadas como párrafos deben ser identificadas con el elemento [equation]
 
-.. image:: img/doc-mkp-eq1.jpg
+.. image:: img/es_doc-mkp-eq1.png
    :height: 200px
    :align: center
 
 Llene el "ID" de la ecuación en la ventana que abre el programa. Cerciórese que el id de la ecuación es único en el documento.
 
-.. image:: img/doc-mkp-eq2.jpg
+.. image:: img/es_doc-mkp-eq2.png
    :height: 200px
    :align: center
 
 Al realizar la marcación de la ecuación, el programa identifica el elemento [equation]. En caso que exista información del número de la ecuación, márquela con el elemento [label].
 
-.. image:: img/doc-mkp-eq3.jpg
+.. image:: img/es_doc-mkp-eq3.png
    :height: 200px
    :align: center
 
@@ -1613,19 +1612,19 @@ Cajas de texto
 
 Las cajas de texto pueden presentar figuras, ecuaciones, listas, glosarios o un texto. Para marcar este elemento, seleccione toda la información de la caja de texto incluyendo el label y caption, y márquela con [*boxedtxt]:
 
-.. image:: img/doc-mkp-boxselect.jpg
+.. image:: img/es_doc-mkp-boxselect.png
    :height: 300px
    :align: center
 
 Llene el campo de ID de la caja de texto en la ventana que abre el programa, después de la selección de [*boxedtxt]. Cerciórese que el ID de boxed-text es único en el documento.
 
-.. image:: img/doc-mkp-id-bxt.jpg
+.. image:: img/es_doc-mkp-id-bxt.png
    :height: 200px
    :align: center
 
 Utilizando [*boxedtxt] el programa realiza la marcación automática del título de la caja de texto y también de los párrafos:
 
-.. image:: img/doc-mkp-resultboxed.jpg
+.. image:: img/es_doc-mkp-resultboxed.png
    :height: 400px
    :align: center
 
@@ -1643,18 +1642,18 @@ Marcación de versos
 
 Para identificar versos o poemas en el cuerpo del texto, seleccione toda la información, incluyendo el título y autoría si existe, y márquela con el elemento [versegrp]: 
 
-.. image:: img/doc-mkp-selectverse.jpg
+.. image:: img/es_doc-mkp-selectverse.png
    :height: 150px
    :align: center
 
 El programa identificará cada línea como [verseline]. En caso que el poema presente título, elimine la marcación de [verseline], seleccione el título y márquelo con el elemento [label]. La autoría del poema debe ser marcada con el elemento [attrib].
 
-.. image:: img/doc-mkp-versee.jpg
+.. image:: img/es_doc-mkp-versee.png
    :height: 150px
    :align: center
 
 
-.. image:: img/doc-mkp-versline-attr.jpg
+.. image:: img/es_doc-mkp-versline-attr.png
    :height: 180px
    :align: center
 
@@ -1671,19 +1670,19 @@ Citas textuales
 
 Las citas son marcadas automáticamente en el cuerpo del texto, al realizar la marcación de [xmlbody], siempre que estén con el formateo adecuado.
 
-.. image:: img/mkp-doc-quoteok.jpg
+.. image:: img/es_mkp-doc-quoteok.png
    :height: 200px
    :align: center
 
 Cuando el programa no realice la marcación automática, seleccione la cita deseada y márquela con el elemento [quote]:
 
-.. image:: img/doc-mkp-quotee.jpg
+.. image:: img/es_doc-mkp-quotee.png
    :height: 300px
    :align: center
 
 El resultado debe ser:
 
-.. image:: img/mkp-doc-quoteok.jpg
+.. image:: img/es_mkp-doc-quoteok.png
    :height: 200px
    :align: center
 
@@ -1701,14 +1700,14 @@ Listas
 
 Para identificar listas seleccione todos los ítems y márquelos con el elemento [*list]. Seleccione el tipo de lista en la ventana que abre el programa:
 
-.. image:: img/doc-mkp-list-type.jpg
+.. image:: img/es_doc-mkp-list-type.png
    :height: 400px
    :width: 380px
    :align: center
 
 Verifique los posibles tipos de lista en :ref:`elemento-list` y seleccione el más adecuado:
 
-.. image:: img/doc-mkp-list.jpg
+.. image:: img/es_doc-mkp-list.png
    :height: 250px
    :align: center
 
@@ -1755,32 +1754,32 @@ Listas de definiciones
 
 Para marcar listas de definiciones seleccione todos los datos, incluyendo el título si existe, y márquelos con el elemento [*deflist]
 
-.. image:: img/doc-mkp-deflistselect.jpg
+.. image:: img/es_doc-mkp-deflistselect.png
    :height: 300px
    :align: center
 
 En la ventana que abre el programa, llene el campo de "id" de la lista. Cerciórese que el id es único en el documento.
 
-.. image:: img/doc-mkp-def-selec.jpg
+.. image:: img/es_doc-mkp-def-selec.png
    :height: 200px
    :align: center
 
 
 Confirme la identificación del título de la lista de definiciones y enseguida la marcación del mismo:
 
-.. image:: img/doc-mkp-question-def.jpg
+.. image:: img/es_doc-mkp-question-def.png
    :height: 150px
    :align: center
 
 
-.. image:: img/doc-mkp-def-sectitle.jpg
+.. image:: img/es_doc-mkp-def-sectitle.png
    :height: 150px
    :align: center
 
 
 Al finalizar, verifique si la marcación automática de cada término de la lista de definiciones está conforme al siguiente ejemplo.
 
-.. image:: img/doc-mkp-deflist.jpg
+.. image:: img/es_doc-mkp-deflist.png
    :height: 300px
    :align: center
 
@@ -1790,32 +1789,32 @@ Cuando el programa no realice la marcación automática de la lista de definicio
 
 * Seleccione toda la lista de definiciones y márquelas con el elemento [deflist], sin asterisco:
 
-.. image:: img/doc-mkp-mandef1.jpg
+.. image:: img/es_doc-mkp-mandef1.png
    :height: 300px
    :align: center
 
 
 * Marque el título con el elemento [sectitle] (solo si existe la información de título):
 
-.. image:: img/doc-mkp-defsect.jpg
+.. image:: img/es_doc-mkp-defsect.png
    :height: 250px
    :align: center
 
 * Seleccione el término y la definición y márquelos con el elemento [defitem]:
 
-.. image:: img/doc-mkp-defitem.jpg
+.. image:: img/es_doc-mkp-defitem.png
    :height: 250px
    :align: center
 
 * Seleccione solo el término y márquelo con el elemento [term]:
 
-.. image:: img/doc-mkp-term.jpg
+.. image:: img/es_doc-mkp-term.png
    :height: 80px
    :align: center
 
 * El próximo paso será seleccionar la definición y marcarla con el elemento [def]:
 
-.. image:: img/mkp-doc-def.jpg
+.. image:: img/es_mkp-doc-def.png
    :height: 200px
    :align: center
 
@@ -1846,13 +1845,13 @@ Seleccione todo contenido del material suplementario, incluyendo label y caption
 En la ventana que abre el programa, llene el campo de "id", el cual deberá ser único en el documento, y el campo "href" con el nombre del archivo .doc:
 
 
-.. image:: img/doc-mkp-supplfig.jpg
+.. image:: img/es_doc-mkp-supplfig.png
    :height: 200px
    :align: center
 
 Después realice la marcación de label del material suplementario. Seleccione todos los datos de la figura y márquelos con el elemento [figgrp]. La marcación deberá quedar conforme al siguiente ejemplo:
 
-.. image:: img/doc-mkp-suppl2.jpg
+.. image:: img/es_doc-mkp-suppl2.png
    :height: 300px
    :align: center
 
@@ -1864,20 +1863,20 @@ Material suplementario en línea
 
 Seleccione la información del material suplementario y márquela con el elemento [supplmat]:
 
-.. image:: img/doc-mkp-selectms.jpg
+.. image:: img/es_doc-mkp-selectms.png
    :height: 180px
    :align: center
 
 En la ventana que abre el programa, llene el campo de "id", el cual deberá ser único en el documento, y el campo "href" con el nombre del PDF del material suplementario exactamente como esta en la carpeta "src".
 
-.. image:: img/doc-mkp-camposms.jpg
+.. image:: img/es_doc-mkp-camposms.png
    :height: 200px
    :align: center
 
 
 La marcación deberá ser:
 
-.. image:: img/doc-nkp-supple.jpg
+.. image:: img/es_doc-nkp-supple.png
    :align: center
 
 .. note:: Antes de iniciar la marcación de material suplementario cerciórese que el PDF del material suplementario se encuentra en la carpeta "src" como esta descrito en `Estructura de carpetas <es_how_to_generate_xml-prepara.html#estrutura-de-pastas>`_.
@@ -1890,14 +1889,14 @@ Material suplementario como apéndice
 
 Primero se debe marcar el material suplementario con el elemento [appgrp] y enseguida el elemento [app].
 
-.. image:: img/doc-mkp-suppl-appo.jpg
+.. image:: img/es_doc-mkp-suppl-appo.png
   :height: 400px
   :width: 350px
   :align: center
 
 Seleccione nuevamente todo el contenido del material suplementario y márquelo con el elemento [app]. Enseguida, marque el label del material con el elemento [sectitle]:
 
-.. image:: img/doc-mkp-suppl-app.jpg
+.. image:: img/es_doc-mkp-suppl-app.png
    :height: 400px
    :width: 350px
    :align: center
@@ -1913,7 +1912,7 @@ Seleccione el material suplementario y márquelo con el elemento [supplmat]:
 
 Después de la marcación de [supplmat] marque el objeto del material con las etiquetas flotantes:
 
-.. image:: img/doc-mkp-suppl4.jpg
+.. image:: img/es_doc-mkp-suppl4.png
    :height: 400px
    :width: 350px
    :align: center
@@ -1960,7 +1959,7 @@ Marcando documentos con traducciones
 Con el documento formateado, marque el documento con el elemento [doc] y complete la información.
 La marcación del documento con el idioma principal no cambia, siga las instrucciones anteriores para la marcación de los elementos.
 
-.. image:: img/mkp-subdoc-fechadoc.jpg
+.. image:: img/es_mkp-subdoc-fechadoc.png
    :align: center
 
 
@@ -1974,7 +1973,7 @@ En la ventana que abre el programa, llene los siguientes campos:
 * subarttp - Seleccionar el tipo de artículo: "translation"
 * language - Idioma de la traducción del documento
 
-.. image:: img/mkp-subdoc-inicio.jpg
+.. image:: img/es_mkp-subdoc-inicio.png
    :height: 300px
    :width: 600px
    :align: center
@@ -1982,7 +1981,7 @@ En la ventana que abre el programa, llene los siguientes campos:
 Realice la marcación de la traducción del documento, con los elementos en nivel de [subdoc]:
 
 
-.. image:: img/mkp-subdoc-nivel.jpg
+.. image:: img/es_mkp-subdoc-nivel.png
    :height: 350px
    :width: 500px
    :align: center
@@ -1998,7 +1997,7 @@ La marcación de una afiliación traducida es diferente de a la marcación del d
 Las afiliaciones traducidas no deben presentar datos detallados. 
 Seleccione la afiliación traducida y márquela con el elemento [afftrans] del nivel [subdoc]:
 
-.. image:: img/mkp-afftrans.jpg
+.. image:: img/es_mkp-afftrans.png
    :height: 300px
    :align: center
 
@@ -2015,7 +2014,7 @@ La marcación del cuerpo del texto sigue la mismas instrucciones anteriores. Sel
 
 El programa realizara la marcación automática de las referencias cruzadas en el cuerpo del texto agregando el 'rid" correspondiente al 'id' de las referencias bibliográficas marcadas en el documento principal.
 
-.. image:: img/mkp-body-trans.jpg
+.. image:: img/es_mkp-body-trans.png
    :height: 300px
    :align: center
 
@@ -2027,7 +2026,7 @@ Para ello, dé continuidad a los IDs, por ejemplo:
 
 **El documento principal presenta 2 figuras:**
 
-.. image:: img/mkp-fig-id-ingles.jpg
+.. image:: img/es_mkp-fig-id-ingles.png
    :height: 350px
    :align: center
 
@@ -2036,7 +2035,7 @@ Para ello, dé continuidad a los IDs, por ejemplo:
 
 **En el artículo traducido también hay 2 figuras:**
 
-.. image:: img/mkp-fig-id-traducao.jpg
+.. image:: img/es_mkp-fig-id-traducao.png
    :height: 350px
    :align: center
 
@@ -2131,14 +2130,14 @@ Al abrir el formulario, seleccione el título de la revista y verifique los meta
 Complete los demás campos, y en el campo [doctopic] seleccione "errata" y de clic en [OK]
 El programa marcará automáticamente los elementos básicos de la errata como: sección, número DOI y título:
 
-.. image:: img/mkp-formulario-errata.jpg
+.. image:: img/es_mkp-formulario-errata.png
    :height: 350px
    :align: center
 
 Para finalizar la marcación de la errata, verifique que todos los elementos fueron identificados correctamente y continué con la marcación.
 Seleccione el cuerpo del texto y márquelo con el elemento [xmlbody]:
 
-.. image:: img/mkp-xmlbody-errata.jpg
+.. image:: img/es_mkp-xmlbody-errata.png
    :height: 350px
    :align: center
 
@@ -2146,13 +2145,13 @@ Seleccione el cuerpo del texto y márquelo con el elemento [xmlbody]:
 Ponga el cursor del mouse antes del elemento [toctitle],  y de un clic en [related].
 En la ventana que abre el programa, llene los campos: [reltp] (tipo de relación) con el valor "corrected-article" y [pid-doi] (número PID o DOI relacionado) con el número DOI del artículo que será corregido y de clic en [Continuar]:
  
-.. image:: img/mkp-related-campos.jpg
+.. image:: img/es_mkp-related-campos.png
    :height: 200px
    :align: center
 
 El programa inserta el elemento [related], el cual enlazará al artículo que presenta el error:
 
-.. image:: img/mkp-resultado-related.jpg
+.. image:: img/es_mkp-resultado-related.png
    :height: 300px
    :align: center
 
@@ -2299,7 +2298,7 @@ El formato del documento debe seguir instrucciones disponibles en `Preparación 
 
 Ejemplo:
 
-.. image:: img/mkp-format-resenha.jpg
+.. image:: img/es_mkp-format-resenha.png
    :align: center
    :height: 500px
 
@@ -2311,12 +2310,12 @@ Con el documento previamente formateado, realice la marcación de documento con 
 
 Para marcar la referencia del libro, seleccione la referencia completa y márquela con el elemento [product]. En la ventana que abre el programa, seleccione el tipo de referencia bibliográfica en [prodtype]:
 
-.. image:: img/mkp-product.jpg
+.. image:: img/es_mkp-product.png
    :align: center
 
 Después realice la marcación de la referencia usando los elementos presentados del nivel [prodtype]:
 
-.. image:: img/mkp-product-reference.jpg
+.. image:: img/es_mkp-product-reference.png
    :align: center
 
 Termine la marcación del archivo y genere el XML.
