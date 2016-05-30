@@ -1206,7 +1206,7 @@ Glosario
 
 Los glosarios son incluidos en los documentos después de las referencias bibliográficas, en apéndices o cajas de texto. Para marcarlo, seleccione todos los ítems que lo componen y márquelos con el elemento [glossary]. Seleccione todos los ítems nuevamente y márquelos con el elemento :ref:`lista-definición`. El siguiente es un ejemplo de marcación de un glosario localizado después de las referencias bibliográficas:
 
-.. image:: img/doc-mkp-glossary-.jpg
+.. image:: img/es_doc-mkp-glossary-.png
    :height: 200px
    :align: center
 
@@ -1370,7 +1370,7 @@ Seleccione [ref-type] de tipo "Figura" e indique la secuencia del ID en el docum
 
 *Resultado*
 
-.. image:: img/es_doc-mkp-xref-chart.png
+.. image:: img/doc-mkp-xref-chart.jpg
    :align: center
 
 
@@ -1385,7 +1385,7 @@ Seleccione [ref-type] de tipo "Fórmula" e indique la secuencia del ID en el doc
 
 *Resultado*
 
-.. image:: img/es_doc-mkp-xref-equation.png
+.. image:: img/doc-mkp-xref-equation.jpg
    :height: 80px
    :align: center
 
@@ -1401,7 +1401,7 @@ Seleccione [ref-type] de tipo "Caja de texto o barra lateral" e indique la secue
 
 *Resultado*
 
-.. image:: img/es_doc-mkp-xref-boxed.png
+.. image:: img/doc-mkp-xref-boxed.jpg
    :align: center
 
 
