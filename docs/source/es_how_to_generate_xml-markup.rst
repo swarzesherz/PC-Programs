@@ -169,7 +169,7 @@ Verifique que el idioma insertado en [doctitle] para títulos traducidos sea cor
 Para corregir, seleccione el elemento incorrecto y haga clic en el ícono del "lápiz" para editar los atributos:
 
 
-.. image:: img/doc-mkp-language-doctitle.jpg
+.. image:: img/es_doc-mkp-language-doctitle.png
    :height: 400px
    :align: center
 
@@ -192,7 +192,7 @@ Por tratarse de una referencia cruzada (xref) de afiliación, el tipo de xref (r
 
 El programa Markup no realiza la marcación automática de la función del autor, entendiéndose función como el cargo ejercido. Para marcarlo, es necesario seleccionar el dato que aparece al lado del nombre del autor, ir al nivel inferior del elemento [author] y marcar ese dato con el elemento [role].
 
-.. image:: img/doc-mkp-role-author.jpg
+.. image:: img/es_doc-mkp-role-author.png
    :height: 230px
    :align: center
 
@@ -318,7 +318,7 @@ En el campo "icountry" seleccione el país de la institución mayor (orgname), e
 
 
 
-.. image:: img/doc-mkp-aff.jpg
+.. image:: img/es_doc-mkp-aff.png
    :height: 150px
    :align: center
 
@@ -423,7 +423,7 @@ En la ventana que abre el programa, seleccione el idioma de las palabras-clave m
    :align: center
 
 
-.. image:: img/doc-mkp-kwd-grp.jpg
+.. image:: img/es_doc-mkp-kwd-grp.png
    :height: 100px
    :align: center
 
@@ -1835,7 +1835,7 @@ Material suplementario en [xmlbody]
 
 Seleccione todo contenido del material suplementario, incluyendo label y caption si existe, y márquelo con el elemento [supplmat]:
 
-.. image:: img/doc-mkp-suppl-f.jpg
+.. image:: img/es_doc-mkp-suppl-f.png
    :height: 300px
    :align: center
 
