@@ -616,9 +616,9 @@ Thesis
 Utilizada para referenciar monografías, tesis para obtención de un grado académico, tales como libre-docencia, doctorado, maestría etc. La seleción del elemento [thesgrp] determinará el cambio del tipo de referencia de [book] a [thesis]. Ej:
 
 
-   *PINHEIRO, Fernanda Domingos. A defesa da liberdade: libertos e livres de cor nos tribunais do Antigo Regime portugues (Mariana e Lisboa, 1720-1819). Tese de doutorado, Departamento de História, Instituto de Filosofia e Ciencias Humanas, Universidade Estadual de Campinas, 2013*
+   *6. Ferreira Gonzáles, Jesús Emmanuel, 2013, Diálogo entre Maurice Merleau-Ponty y Emmanuel Lévinas sobre el problema de la resistencia de lo irreflexivo a la reflexión &#91;tesis doctoral &#93;, Morelia, Universidad Michoacana de San Nicolás de Hidalgo disponible en: http://filos.umich.mx/portal/wp-content/uploads/2013/09/Ferreira-tesis.pdf (consultado en 19/X/2013).*
 
-.. image:: img/doc-mkp-ref-thesis.jpg
+.. image:: img/es_doc-mkp-ref-thesis.png
    :height: 200px
    :align: center
 
@@ -636,10 +636,10 @@ Confproc
 Utilizada para referenciar documentos relacionados a eventos: actas, anales, convenciones y conferencias entre otros. Al marcar el elemento [confgrp] el programa cambiará el tipo de referencia a [confproc]. Ej.:
 
 
-   *FABRE, C. Interpretation of nominal compounds: combining domain-independent and domain-specific information. In: INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS (COLING), 16, 1996, Stroudsburg. Proceedings... Stroudsburg: Association of Computational Linguistics, 1996. v.1, p.364-369.*
+   *8. McDougall, Derek and Kingsley, Edney (2007), "Howard's way? Public opinion as an influence on Australia's engagement with Asia", Paper presented at the anual conference of the Australasian Political Studies Association, Monash University, Melbourne.*
 
 
-.. image:: img/doc-mkp-ref-confproc.jpg
+.. image:: img/es_doc-mkp-ref-confproc.png
    :height: 250px
    :align: center
 
@@ -658,10 +658,10 @@ Report
 Utilizada para referenciar informes técnicos, normalmente de autoría institucional. Al marcar el elemento [reportid] el programa cambiará el tipo de referencia a [report]. Ej.:
 
 
-   *AMES, A.; MACHADO, F.; RENNÓ, L. R. SAMUELS, D.; SMITH, A.E.; ZUCCO, C. The Brazilian Electoral Panel Studies (BEPS): Brazilian Public Opinion in the 2010 Presidential Elections. Technical Note No. IDB-TN-508, Inter-American Debelopment Bank, Department of Research and Chief Economist, 2013.*
+   *9. Naciones Unidas, Asamblea General (2011), Informe del Grupo de Trabajo sobre el Examen Periódico Universal: Myanmar, núm. A/HRC/17/9*
 
 
-.. image:: img/doc-mkp-ref-report.jpg
+.. image:: img/es_doc-mkp-ref-report.png
    :height: 250px
    :align: center
 
@@ -676,9 +676,9 @@ Patent
 Utilizada para referenciar patentes; la patente representa un título de propiedad que confiere a su titular el derecho de impedir que terceros exploten su creación. Ej.:
 
 
-   *SCHILLING, C.; DOS SANTOS, J. Method and Device for Linking at Least Two Adjoinig Work Pieces by Friction Welding, U.S. Patent WO/2001/036144, 2005.*
+   *19. Torabinejad M, White DJ. Tooth filling material and use. Washington, DC: United States Patent & Trademark Office; Patent Number 5,769,638, May 16, 1995.*
 
-.. image:: img/doc-mkp-patent.jpg
+.. image:: img/es_doc-mkp-patent.png
    :align: center
 
 
@@ -736,9 +736,9 @@ Book Chapter
 Capítulo de libro (título del capítulo y sus respectivos autores, si los tiene, seguido del título del libro y sus autores) numerado o no.
 
 
-   *Lastres, H.M.M.; Ferraz, J.C. Economia da información, do conhecimento e do aprendizado. In: Lastres, H.M.M.; Albagli, S. (Org.). Informaciónn e globalización na era do conhecimento. Rio de Janeiro: Campus, 1999. p.27-57.*
+   *Ibarra Salazar, Jorge y Lida Sotres Cervantes, (2013) “Instituciones fiscales como paliativo para enfrentar crisis financieras: el impuesto predial en el estado de Coahuila” en Mendoza Cota, Jorge E. (coord.), La crisis financiera internacional. Efectos sectoriales en México y en su frontera norte. Tijuana, El Colegio de la Frontera Norte, pp. 315-354.*
 
-.. image:: img/doc-mkp-ref-chapter-book.jpg
+.. image:: img/es_doc-mkp-ref-chapter-book.png
    :height: 300px
    :align: center
 
@@ -751,9 +751,9 @@ Journal
 Utilizada para referenciar publicaciones seriadas científicas, como revistas, boletines y periódicos, editadas en unidades sucesivas, con designación numérica y/o cronológica y destinada a ser continuada indefinidamente. Al marcar [arttitle] el programa cambiará el tipo de referencia a [journal]. Ej.:
 
 
-   *Cardinalli, I. (2011). A saúde e a doença mental segundo a fenombrenologia existencial. Revista da Associación Brasileira de Daseinsanalyse, São Paulo, 16, 98-114.*
+   *1. Alatorre Antonio. "Hacia una edición crítica de sor Juana (segunda parte)", en Nueva Revista de Filología Hispánica, 54 (2006): 103-142, http://www.huffingtonpost.es/shinzoable/la-tercera-flecha-abenomics-nhoa_b_3545249.html.*
 
-.. image:: img/doc-mkp-ref-journal.jpg
+.. image:: img/es_doc-mkp-ref-journal.png
    :height: 200px
    :align: center
 
@@ -776,9 +776,9 @@ Legal-doc
 Utilizada para referenciar documentos jurídicos, incluye información sobre legislación y jurisprudencia. Ej.:
 
 
-   *Brasil. Portaria en el 1169/GM en 15 de junho de 2004. Institui a Política Nacional de Atención Cardiovascular de Alta Complexidade, e dá outras providencias. Diário Oficial 2004; seción 1, n.115, p.57.*
+   *10. Secretaria Del Media Ambiente y Recursos Naturales (SEMARNAT). 2010. Norma Oficial Mexicana NOM-059-SEMARNAT-2010, Protección ambiental-especies nativas de México flora y fauna silvestre-Categorías de riesgo y especificación de una inclusión, exclusión o cambio-Lista de especies en riesgo. Diario Oficial de la Nación (Segunda sección). Ciudad de México, México.*
 
-.. image:: img/doc-mkp-ref-legal-doc1.jpg
+.. image:: img/es_doc-mkp-ref-legal-doc1.png
    :height: 180px
    :align: center
 
@@ -805,9 +805,9 @@ Database
 Utilizada para referenciar bases y bancos de datos. Ej.:
 
 
-	*IPEADATA. Disponivel em: http://www.ipeadata.gov.br.  Acesso em: 12 fev. 2010.*
+	*5. Farr DF ad Rossman AY. 2005. Funga database, sytematic mycology and microbiology laboratory, ARS, USDA. http://nr.ars-grin.gov/fungaldatabases/ (consulta marzo 2015)*
 
-.. image:: img/doc-mkp-ref-database.jpg
+.. image:: img/es_doc-mkp-ref-database.png
    :height: 100px
    :align: center
 
@@ -824,9 +824,9 @@ Software
 Utilizada para referenciar un software, un programa de computadora. Ej.:
 
 
-	*Nelson KN. Comprehensive body composition software [computer program on disk]. Release 1.0 for DOS. Champaign (IL): Human Kinetics, c1997. 1 computer disk: color, 3 1/2 in.*
+	*2. BLAST®. Basic Local Aligment Search Tool, Available at: http://blast.ncbi.nml.gov/Blast.cgi. Accessed on July 13, 2011.*
 
-.. image:: img/doc-mkp-ref-software.jpg
+.. image:: img/es_doc-mkp-ref-software.png
    :height: 200px
    :align: center
 
@@ -844,9 +844,9 @@ Utilizada para referenciar, páginas web o información contenida en blogs, twit
 
 **Ejemplo 1**
 
-   *UOL JOGOS. Fórum de jogos online: Por que os portugas falam que o sotaque portugues do Brasil é açucarado???, 2011. Disponivel en <http://forum.jogos.uol.com.br/_t_1293567>. Acessado em 06 de fevereiro de 2014.*
+   *Bosque Los Colomos. (2010). Anexo cartográfico &#91;consultado Nov 2012&#93;. Disponible en: www.bosqueloscolomos.org.mx*
 
-.. image:: img/doc-mkp-ref-web-uol.jpg
+.. image:: img/es_doc-mkp-ref-web-uol.png
    :align: center
 
 
