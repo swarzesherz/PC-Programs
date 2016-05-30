@@ -399,8 +399,8 @@ Siga los mismos pasos descritos para los resúmenes sin sección:
 Keywords
 ========
 
-El programa Markup cuenta con dos elementos para la identificación de palabras-clave, [*kwdgrp] y [kwdgrp].
-El elemento [*kwdgrp], con asterisco, se usa para la marcación automática de cada palabra-clave y también del título. Para hacerlo, seleccione toda la información, incluyendo el título y marque los datos con el elemento [*kwdgrp].
+El programa Markup cuenta con dos elementos para la identificación de palabras-clave, [\*kwdgrp] y [kwdgrp].
+El elemento [\*kwdgrp], con asterisco, se usa para la marcación automática de cada palabra-clave y también del título. Para hacerlo, seleccione toda la información, incluyendo el título y marque los datos con el elemento [\*kwdgrp].
 
 
 Marcación automática:
@@ -896,7 +896,7 @@ Al hacer la marcación de [refs] el programa duplicará la referencia con previo
 
 .. note:: En referencias que presentan el elemento [text-ref], la información que se marca debe ser la que está después del [/text-ref]. Nunca hacer la marcación de la referencia que está entre [text-ref] y [/text-ref].
 
-Para la identificación de referencias con ese tipo de dato, seleccione los guiones e identifique con el elemento [*authors] con asterisco. El programa recuperará el nombre del autor previamente marcado y hará la marcación automática del grupo de autores, marcando el apellido y el primer nombre.
+Para la identificación de referencias con ese tipo de dato, seleccione los guiones e identifique con el elemento [\*authors] con asterisco. El programa recuperará el nombre del autor previamente marcado y hará la marcación automática del grupo de autores, marcando el apellido y el primer nombre.
 
 
 
@@ -1045,13 +1045,13 @@ Las notas deberán estar en formato de nota al pie de Word con un espacio antes 
    :height: 300px
    :align: center
 
-Ya con el formato correcto, haga clic con el mouse en cualquier párrafo, y en seguida haga clic en [* fn].
+Ya con el formato correcto, haga clic con el mouse en cualquier párrafo, y en seguida haga clic en [\*fn].
 
 .. image:: img/es_mkp-botao-fn.png
    :height: 300px
    :align: center
 
-Al hacer clic en [*fn] el programa realizará la marcación automática de [xref] en el cuerpo del texto y también de la nota al pie de la página.
+Al hacer clic en [\*fn] el programa realizará la marcación automática de [xref] en el cuerpo del texto y también de la nota al pie de la página.
 
 .. image:: img/es_mkp-nota-automatico.png
    :height: 300px
@@ -1368,7 +1368,7 @@ Seleccione [ref-type] de tipo "Figura" e indique la secuencia del ID en el docum
    :align: center
 
 
-   *Resultado*
+*Resultado*
 
 .. image:: img/es_doc-mkp-xref-chart.png
    :align: center
@@ -1383,7 +1383,7 @@ Seleccione [ref-type] de tipo "Fórmula" e indique la secuencia del ID en el doc
    :align: center
 
 
-   *Resultado*
+*Resultado*
 
 .. image:: img/es_doc-mkp-xref-equation.png
    :height: 80px
@@ -1399,7 +1399,7 @@ Seleccione [ref-type] de tipo "Caja de texto o barra lateral" e indique la secue
    :align: center
 
 
-   *Resultado*
+*Resultado*
 
 .. image:: img/es_doc-mkp-xref-boxed.png
    :align: center
@@ -1608,25 +1608,25 @@ Al realizar la marcación de la ecuación, el programa identifica el elemento [e
 Cajas de texto
 --------------
 
-Las cajas de texto pueden presentar figuras, ecuaciones, listas, glosarios o un texto. Para marcar este elemento, seleccione toda la información de la caja de texto incluyendo el label y caption, y márquela con [*boxedtxt]:
+Las cajas de texto pueden presentar figuras, ecuaciones, listas, glosarios o un texto. Para marcar este elemento, seleccione toda la información de la caja de texto incluyendo el label y caption, y márquela con [\*boxedtxt]:
 
 .. image:: img/es_doc-mkp-boxselect.png
    :height: 300px
    :align: center
 
-Llene el campo de ID de la caja de texto en la ventana que abre el programa, después de la selección de [*boxedtxt]. Cerciórese que el ID de boxed-text es único en el documento.
+Llene el campo de ID de la caja de texto en la ventana que abre el programa, después de la selección de [\*boxedtxt]. Cerciórese que el ID de boxed-text es único en el documento.
 
 .. image:: img/es_doc-mkp-id-bxt.png
    :height: 200px
    :align: center
 
-Utilizando [*boxedtxt] el programa realiza la marcación automática del título de la caja de texto y también de los párrafos:
+Utilizando [\*boxedtxt] el programa realiza la marcación automática del título de la caja de texto y también de los párrafos:
 
 .. image:: img/es_doc-mkp-resultboxed.png
    :height: 400px
    :align: center
 
-Cuando la caja de texto presente una figura, tabla, lista etc, también es posible utilizar el elemento [*boxedtxt] y después marcar estos elementos utilizando las etiquetas flotantes del programa.
+Cuando la caja de texto presente una figura, tabla, lista etc, también es posible utilizar el elemento [\*boxedtxt] y después marcar estos elementos utilizando las etiquetas flotantes del programa.
 
 .. raw:: html
 
@@ -1696,7 +1696,7 @@ El resultado debe ser:
 Listas
 ------
 
-Para identificar listas seleccione todos los ítems y márquelos con el elemento [*list]. Seleccione el tipo de lista en la ventana que abre el programa:
+Para identificar listas seleccione todos los ítems y márquelos con el elemento [\*list]. Seleccione el tipo de lista en la ventana que abre el programa:
 
 .. image:: img/es_doc-mkp-list-type.png
    :height: 400px
@@ -1750,7 +1750,7 @@ El atributo ``@list-type`` especifica el prefijo a ser utilizado en el marcador 
 Listas de definiciones
 ----------------------
 
-Para marcar listas de definiciones seleccione todos los datos, incluyendo el título si existe, y márquelos con el elemento [*deflist]
+Para marcar listas de definiciones seleccione todos los datos, incluyendo el título si existe, y márquelos con el elemento [\*deflist]
 
 .. image:: img/es_doc-mkp-deflistselect.png
    :height: 300px
@@ -2503,7 +2503,7 @@ Hay dos métodos para la marcación manual de sublistas:
 Método 1:
 ^^^^^^^^^
 
-En el programa Markup, seleccione toda la lista y márquela con el elemento [*list], genere el archivo .xml.
+En el programa Markup, seleccione toda la lista y márquela con el elemento [\*list], genere el archivo .xml.
 Con el archivo .xml generado, localice la lista y realice lo siguiente:
 
 Primero, identifique los ítems de sublista:
