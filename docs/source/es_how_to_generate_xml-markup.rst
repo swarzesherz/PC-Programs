@@ -278,7 +278,7 @@ Aunque el programa incluya el link en el elemento [author], será necesario comp
 Para hacerlo, vaya al nivel de [autor], seleccione el link del autor y haga clic en [author-id].
 En la ventana que abre el programa, seleccione el tipo de registro del autor: lattes u ORCID y haga clic en [Continuar]
 
-.. image:: img/es_mkp-marcando-id-contrib.jpg
+.. image:: img/es_mkp-marcando-id-contrib.png
    :height: 230px
    :align: center
 
@@ -1189,7 +1189,7 @@ Marque el número de contracto con el elemento [contract]:
 
 *Resultado*
 
-.. image:: es_doc-mkp-ack-finaliz1.png
+.. image:: img/es_doc-mkp-ack-finaliz1.png
    :height: 230px
    :align: center
 
@@ -1275,7 +1275,27 @@ Al dar clic en "Aplicar" el programa preguntará si las referencias en el cuerpo
 
 Es a partir del documento formateado de acuerdo con las instrucciones de `Preparación de archivos <http://www.scielo.org.mx/avaliacao/SciELO_Manual_XML_Preparacion_de_archivos.pdf>`_ que el programa marca automáticamente secciones, subsecciones, párrafos, referencias de autores en el cuerpo del texto, llamadas a figuras y tablas, ecuaciones en línea etc.
 
-.. image:: img/es_doc-mkp-complete.png
+.. image:: img/es_doc-mkp-complete1.png
+   :height: 300px
+   :width: 200px
+   :align: center
+
+.. image:: img/es_doc-mkp-complete2.png
+   :height: 300px
+   :width: 200px
+   :align: center
+
+.. image:: img/es_doc-mkp-complete3.png
+   :height: 300px
+   :width: 200px
+   :align: center
+
+.. image:: img/es_doc-mkp-complete4.png
+   :height: 300px
+   :width: 200px
+   :align: center
+
+.. image:: img/es_doc-mkp-complete5.png
    :height: 300px
    :width: 200px
    :align: center
@@ -1952,10 +1972,33 @@ La traducción del documento debe ser simplificada:
 
 Vea el siguiente ejemplo:
 
-.. image:: img/mkp-doc-formatado.jpg
+.. image:: img/es_mkp-doc-formatado1.png
    :height: 400px
    :width: 200px
 
+.. image:: img/es_mkp-doc-formatado2.png
+   :height: 400px
+   :width: 200px
+
+.. image:: img/es_mkp-doc-formatado3.png
+   :height: 400px
+   :width: 200px
+
+.. image:: img/es_mkp-doc-formatado4.png
+   :height: 400px
+   :width: 200px
+
+.. image:: img/es_mkp-doc-formatado5.png
+   :height: 400px
+   :width: 200px
+
+.. image:: img/es_mkp-doc-formatado6.png
+   :height: 400px
+   :width: 200px
+
+.. image:: img/es_mkp-doc-formatado7.png
+   :height: 400px
+   :width: 200px
 
 Marcando documentos con traducciones
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -2301,7 +2344,19 @@ El formato del documento debe seguir instrucciones disponibles en `Preparación 
 
 Ejemplo:
 
-.. image:: img/es_mkp-format-resenha.png
+.. image:: img/es_mkp-format-resenha1.png
+   :align: center
+   :height: 500px
+
+.. image:: img/es_mkp-format-resenha2.png
+   :align: center
+   :height: 500px
+
+.. image:: img/es_mkp-format-resenha3.png
+   :align: center
+   :height: 500px
+
+.. image:: img/es_mkp-format-resenha4.png
    :align: center
    :height: 500px
 
