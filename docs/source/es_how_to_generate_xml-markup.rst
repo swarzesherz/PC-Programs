@@ -278,7 +278,7 @@ Aunque el programa incluya el link en el elemento [author], será necesario comp
 Para hacerlo, vaya al nivel de [autor], seleccione el link del autor y haga clic en [author-id].
 En la ventana que abre el programa, seleccione el tipo de registro del autor: lattes u ORCID y haga clic en [Continuar]
 
-.. image:: img/mkp-marcando-id-contrib.jpg
+.. image:: img/es_mkp-marcando-id-contrib.jpg
    :height: 230px
    :align: center
 
@@ -1073,14 +1073,14 @@ La marcación de apéndices, anexos y material suplementario debe ser hecha con 
 Seleccione todo el grupo de apéndice, incluso el título, si lo tiene, y haga clic en [appgrp]:
 
 
-.. image:: img/es_doc-mkp-app.png
+.. image:: img/doc-mkp-app.jpg
    :height: 300px
    :align: center
 
 
 Seleccione apéndice por apéndice y marque con el elemento [app]
 
-.. image:: img/es_doc-mkp-id-app.png
+.. image:: img/doc-mkp-id-app.jpg
    :height: 300px
    :align: center
 
@@ -1096,12 +1096,12 @@ Cuando el apéndice sea una figura, tabla, cuadro etc, seleccione el título de 
 
 Ejemplo, seleccione la figura con su respectivo label y caption y marque con el elemento [figgrp]
 
-.. image:: img/es_doc-mkp-app-fig1.png
+.. image:: img/doc-mkp-app-fig1.jpg
    :height: 300px
    :align: center
 
 
-.. image:: img/es_doc-mkp-app-fig2.png
+.. image:: img/doc-mkp-app-fig2.jpg
    :height: 350px
    :width: 350px
    :align: center
@@ -1185,6 +1185,12 @@ Marque el número de contracto con el elemento [contract]:
 
 .. image:: img/es_doc-mkp-ack-contract1.png
    :height: 200px
+   :align: center
+
+*Resultado*
+
+.. image:: es_doc-mkp-ack-finaliz1.png
+   :height: 230px
    :align: center
 
 Cuando haya más de una institución financiadora y número de contrato, márquelas como se muestra a continuación:
@@ -1902,7 +1908,7 @@ Seleccione nuevamente todo el contenido del material suplementario y márquelo c
 
 Seleccione el material suplementario y márquelo con el elemento [supplmat]:
 
-.. image:: img/doc-mkp-app-suuol.jpg
+.. image:: img/es_doc-mkp-app-suuol.png
    :height: 400px
    :width: 350px
    :align: center
@@ -1957,7 +1963,7 @@ Marcando documentos con traducciones
 Con el documento formateado, marque el documento con el elemento [doc] y complete la información.
 La marcación del documento con el idioma principal no cambia, siga las instrucciones anteriores para la marcación de los elementos.
 
-.. image:: img/es_mkp-subdoc-fechadoc.png
+.. image:: img/mkp-subdoc-fechadoc.jpg
    :align: center
 
 
@@ -1971,7 +1977,7 @@ En la ventana que abre el programa, llene los siguientes campos:
 * subarttp - Seleccionar el tipo de artículo: "translation"
 * language - Idioma de la traducción del documento
 
-.. image:: img/es_mkp-subdoc-inicio.png
+.. image:: img/mkp-subdoc-inicio.jpg
    :height: 300px
    :width: 600px
    :align: center
@@ -1979,7 +1985,7 @@ En la ventana que abre el programa, llene los siguientes campos:
 Realice la marcación de la traducción del documento, con los elementos en nivel de [subdoc]:
 
 
-.. image:: img/es_mkp-subdoc-nivel.png
+.. image:: img/mkp-subdoc-nivel.jpg
    :height: 350px
    :width: 500px
    :align: center
@@ -1995,7 +2001,7 @@ La marcación de una afiliación traducida es diferente a la marcación del docu
 Las afiliaciones traducidas no deben presentar datos detallados. 
 Seleccione la afiliación traducida y márquela con el elemento [afftrans] del nivel [subdoc]:
 
-.. image:: img/es_mkp-afftrans.png
+.. image:: img/mkp-afftrans.jpg
    :height: 300px
    :align: center
 
@@ -2012,7 +2018,7 @@ La marcación del cuerpo del texto sigue la mismas instrucciones anteriores. Sel
 
 El programa realizará la marcación automática de las referencias cruzadas en el cuerpo del texto agregando el 'rid" correspondiente al 'id' de las referencias bibliográficas marcadas en el documento principal.
 
-.. image:: img/es_mkp-body-trans.png
+.. image:: img/mkp-body-trans.jpg
    :height: 300px
    :align: center
 
@@ -2024,7 +2030,7 @@ Para ello, dé continuidad a los IDs, por ejemplo:
 
 **El documento principal presenta 2 figuras:**
 
-.. image:: img/es_mkp-fig-id-ingles.png
+.. image:: img/mkp-fig-id-ingles.jpg
    :height: 350px
    :align: center
 
@@ -2033,7 +2039,7 @@ Para ello, dé continuidad a los IDs, por ejemplo:
 
 **En el artículo traducido también hay 2 figuras:**
 
-.. image:: img/es_mkp-fig-id-traducao.png
+.. image:: img/mkp-fig-id-traducao.jpg
    :height: 350px
    :align: center
 
@@ -2115,7 +2121,7 @@ Para marcar una errata, primero verifique que el archivo éste formateado correc
 * Saltar 2 líneas
 * Cuerpo del texto
 
-.. image:: img/mkp-exemplo-errata.jpg
+.. image:: img/es_mkp-exemplo-errata.png
    :height: 300px
    :align: center
 
