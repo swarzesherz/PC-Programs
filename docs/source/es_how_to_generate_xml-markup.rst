@@ -683,7 +683,7 @@ Se usa para referenciar libros o parte de ellos (capítulos, tomos, series, etc.
    *LORD, A. B. The singer of tales. 4th. Cambridge: Harvard University Press, 1981.*
 
 
-.. image:: img/doc-mkp-ref-book.jpg
+.. image:: img/doc-mkp-ref-book.png
    :height: 180px
    :align: center
 
@@ -704,7 +704,7 @@ En el caso de libros terminados pero que todavía no se publican presentan la in
 
    *CIRENO, F.; LUBAMBO, C. Estratégia eleitoral e eleiciones para Câmara dos Deputados no Brasil en 2006, no prelo.*
 
-.. image:: img/doc-mkp-ref-book-no-prelo.jpg
+.. image:: img/doc-mkp-ref-book-no-prelo.png
    :height: 180px
    :align: center
 
@@ -773,7 +773,7 @@ Se usa para referenciar publicaciones seriadas sin carácter científico, como r
 
    *TAVARES de ALMEIDA, M. H. "Mais do que meros rótulos". Artigo publicado no Jornal Folha de S. Paulo, en el día 25/02/2006, na coluna Opinião, p. A. 3.*
 
-.. image:: img/doc-mkp-newspaper.jpg
+.. image:: img/doc-mkp-newspaper.png
    :align: center
 
 
@@ -852,7 +852,7 @@ Se usa para referenciar tipos de referencias no contempladas por SciELO o con de
 
    *INAC. Grupo Nacional de Canto e Dança da República Popular de Moçambique. Maputo, [s.d.].*
 
-.. image:: img/doc-mkp-ref-other.jpg
+.. image:: img/doc-mkp-ref-other.png
    :align: center
 
 
@@ -868,12 +868,12 @@ Edición manual de tipo de referencia
 
 Para modificar manualmente el tipo de referencia posicione el cursor en la etiqueta [ref], enseguida haga clic en el ícono del "lápiz". En la ventana que aparece seleccione el tipo correcto en "reftype".
 
-.. image:: img/doc-mkp-edit-ref-type.jpg
+.. image:: img/doc-mkp-edit-ref-type.png
    :height: 400px
    :align: center
 
 
-.. image:: img/doc-mkp-ref-editado-legal-doc.jpg
+.. image:: img/doc-mkp-ref-editado-legal-doc.png
    :height: 150px
    :width: 400px
    :align: center
@@ -893,7 +893,7 @@ Hay normas que permiten que las obras que referencian la misma autoría repetida
 
 *______, "Factores institucionales de la disolución de la RFA, 1945-1989", Estudios Políticos (México, UNAM), vol. 9, núm. 33, septiembre-diciembre de 2014, pp. 123-151.*
 
-Al hacer la marcación de [refs] el programa duplicará la referencia con *previous* dentro de la etiqueta [textref], quedando de la siguiente forma:
+Al hacer la marcación de [refs] el programa duplicará la referencia con *previous* dentro de la etiqueta [text-ref], quedando de la siguiente forma:
 
 .. image:: img/es_doc-mkp-ref-previous.png
    :align: center
@@ -1521,7 +1521,7 @@ Cerciórese que el "id" de la figura es único en el documento.
 
 
 
-.. note:: La marcación de label y caption será automática si el formato está de acuerdo con las instrucciones dadas en `Preparación de archivos para marcación SciELO <http://www.scielo.org.mx/avaliacao/SciELO_Manual_XML_Preparacion_de_archivos.pdf>`_, con label y caption debajo de la imagen en el archivo .doc. La información de fuente debe estar arriba de la imagen.
+.. note:: La marcación de label y caption será automática si el formato está de acuerdo con las instrucciones dadas en `Preparación de archivos para marcación SciELO <http://www.scielo.org.mx/avaliacao/SciELO_Manual_XML_Preparacion_de_archivos.pdf>`_, con label y caption debajo de la imagen en el archivo .docx. La información de fuente debe estar arriba de la imagen.
 
 
 .. _tabla:
@@ -1966,7 +1966,7 @@ Traducciones
 Los documentos traducidos presentan un formato específico:
 
 1. El documento del idioma principal debe seguir el formato indicado en `Preparación de archivos para marcación SciELO <http://www.scielo.org.mx/avaliacao/SciELO_Manual_XML_Preparacion_de_archivos.pdf>`_
-2. Después de la última información en el documento principal y dentro del mismo .doc o .docx, agregue la traducción del documento.
+2. Después de la última información en el documento principal y dentro del mismo .docx, agregue la traducción del documento.
 
 La traducción del documento debe ser simplificada:
 
@@ -2108,10 +2108,10 @@ Considere esta regla para: autores y sus respectivas afiliaciones, figuras, tabl
 Carta y respuesta
 -----------------
 
-Las cartas al editor así como sus respuestas deben estar en un único archivo .doc o .docx.
+Las cartas al editor así como sus respuestas deben estar en un único archivo .docx.
 
 1. La carta debe seguir el formato indicado en `Preparación de archivos para marcación SciELO <http://www.scielo.org.mx/avaliacao/SciELO_Manual_XML_Preparacion_de_archivos.pdf>`_
-2. Después de la última información de la carta y dentro del mismo .doc o .docx, agregue la respuesta del documento.
+2. Después de la última información de la carta y dentro del mismo .docx, agregue la respuesta del documento.
 
 La respuesta debe estar en el mismo documento que la carta. A continuación se muestran los datos que deben estar presentes en la respuesta:
 
@@ -2414,7 +2414,7 @@ Con el documento previamente formateado, realice la marcación del documento con
 En la marcación de archivos en formato corto no es necesario seguir un orden para la marcación de referencias bibliográficas y [xmlbody].
 Realice la marcación de referencias bibliográficas de acuerdo con las instrucciones de :ref:`_referencias`:
 
-.. image:: img/mkp-abrev-refs.jpg
+.. image:: img/mkp-abrev-refs.png
    :align: center
 
 Se deben agregar las leyendas "Texto completo disponible sólo en PDF" y "Full text available only in PDF format", marcadas como párrafos dentro del elemento [xmlbody]:
@@ -2499,7 +2499,7 @@ El programa Markup hace también la identificación de medios como:
 * Películas
 * Animaciones
 
-Los archivos deben estar disponibles en la carpeta "src" con el mismo nombre del archivo .doc, adicionando un guión y el "id" del medio. Ejemplo:
+Los archivos deben estar disponibles en la carpeta "src" con el mismo nombre del archivo .docx, adicionando un guión y el "id" del medio. Ejemplo:
 
       *Artículo12-m1.wmv*
 
